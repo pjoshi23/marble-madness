@@ -70,12 +70,3 @@ and real-time game mechanics.
     g++ -std=c++17 *.cpp -o MarbleMadness
     ./MarbleMadness
     ```
-
-------------------------------------------------------------------------
-
-## 📜 Acknowledgments
-
-This project was part of UCLA's **CS32: Introduction to Computer Science
-II (Winter 2024)**, authored by Professor Nachenberg. The assignment was
-designed to teach real-time game development, object-oriented design,
-and good programming practices.
